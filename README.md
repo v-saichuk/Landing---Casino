@@ -1,2 +1,2 @@
 # Preview
-![Loader-XE3](https://github.com/v-saichuk/Landing---Casino/raw/master/Screenshot.jpg)
+![Landing-Casino](https://github.com/v-saichuk/Landing---Casino/raw/main/Screenshot.jpg)
